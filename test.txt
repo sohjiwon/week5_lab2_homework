@@ -1,2 +1,6 @@
 qwqwq
+<<<<<<< HEAD
 modify main
+=======
+new branch modify
+>>>>>>> newbranch
